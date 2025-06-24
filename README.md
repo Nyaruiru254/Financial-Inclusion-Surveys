@@ -1,5 +1,5 @@
 # Financial-Inclusion-Surveys
-This repository contains my Stata-based analysis of the 2022 Kenya Demographic and Health Survey, conducted for my Applied Econometrics group project, and my literature-driven research on digital finance’s impact on traditional banking in Kenya.
+This repository contains my Stata-based analysis of the 2022 Kenya Demographic and Health Survey, conducted for my Applied Econometrics group project, and my literature-driven research on digital finance’s impact on traditional banking in Kenya and 2024 FinAcess Survey Data analysis using Excel.
 What's Included:
 Applied Econometrics Project PDF: Full write up of variable construction, descriptive statistics, diagnostics and logistic regression results on Kenya Demographic Health Survey Data (KDHS) 2022 (Tables exported from Stata).
 Digital Finance Research Project PDF: Structured literature review and hybrid conceptual framework covering mobile money, fintech innovations and bank adaptations (2007 -2024)
